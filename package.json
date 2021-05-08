@@ -48,7 +48,7 @@
     "@vimeo/player": "^2.2.0",
     "axios": "^0.17.0",
     "es6-object-assign": "^1.1.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "vue-feather-icon": "^1.2.0",
     "vue-select": "^2.4.0",
     "vue-simple-spinner": "^1.2.8"
